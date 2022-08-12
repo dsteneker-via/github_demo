@@ -2,3 +2,5 @@
 
 
 Hello! We are testing how to do things in Git!
+
+This comes from branch2!
